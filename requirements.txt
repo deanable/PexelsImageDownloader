@@ -1,3 +1,5 @@
 PySimpleGUI
 requests
 Pillow
+ratelimit
+urllib3

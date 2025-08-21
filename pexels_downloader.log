@@ -1,0 +1,20 @@
+2025-08-20 22:58:42,578 - INFO - Settings saved to registry
+2025-08-20 22:58:42,581 - INFO - Searching for 'tree' with params: {'query': 'tree', 'per_page': 80}
+2025-08-20 22:58:43,820 - INFO - Found 80 photos for 'tree'
+2025-08-20 23:03:08,187 - INFO - Completed 'tree': 80 downloaded, 0 skipped, 0 failed
+2025-08-20 23:03:08,187 - INFO - Searching for 'car' with params: {'query': 'car', 'per_page': 80}
+2025-08-20 23:03:08,923 - INFO - Found 80 photos for 'car'
+2025-08-20 23:05:27,308 - INFO - Completed 'car': 80 downloaded, 0 skipped, 0 failed
+2025-08-20 23:05:27,309 - INFO - Searching for 'man' with params: {'query': 'man', 'per_page': 80}
+2025-08-20 23:05:28,408 - INFO - Found 80 photos for 'man'
+2025-08-20 23:07:25,618 - INFO - Completed 'man': 80 downloaded, 0 skipped, 0 failed
+2025-08-20 23:07:25,619 - INFO - Searching for 'woman' with params: {'query': 'woman', 'per_page': 80}
+2025-08-20 23:07:26,875 - INFO - Found 80 photos for 'woman'
+2025-08-20 23:08:48,977 - INFO - Completed 'woman': 80 downloaded, 0 skipped, 0 failed
+2025-08-20 23:11:30,813 - INFO - Download complete!
+Searches: 4
+Downloaded: 320
+Skipped: 0
+Failed: 0
+API calls: 4
+Duration: 606.4s
